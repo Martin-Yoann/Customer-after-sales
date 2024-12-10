@@ -7,6 +7,9 @@
           As we are committed to delivering unparalleled service and exceptional results, guided by our extensive
           experience and expertise.
         </p>
+        <p class="email" style="margin-top: 5%;">
+          <span>Email: <i>cs@futurehightechdistroinc.com</i></span>
+        </p>
         <button type="button">Explore</button>
       </div>
       <div class="col">
